@@ -1,3 +1,3 @@
 # AI
 Artificial Intelligence
-Yhis is about Artificial Intelligence
+This is about Artificial Intelligence
